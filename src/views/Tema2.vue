@@ -185,7 +185,7 @@
 
         .bg-color-1.p-4.py-lg-5.mb-1
           figure
-            img(src='@/assets/curso/tema2/f8.png', alt='Imagen que presenta  un propulsor hidráulico instalado dentro de un balancín.', style="max-width: 465px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema2/f8.png', alt='Imagen que presenta  un propulsor hidráulico instalado dentro del vaso propulsor.', style="max-width: 465px;", data-aos="zoom-in").mx-auto
 
     
     .bg-full-width.bg-color-5
