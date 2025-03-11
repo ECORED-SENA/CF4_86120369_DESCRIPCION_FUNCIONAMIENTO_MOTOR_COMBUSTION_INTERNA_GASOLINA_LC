@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.overflow-hidden
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
@@ -66,7 +66,7 @@
 
         p(data-aos="fade-up").mb-4 El aceite comprimido transmite de forma amortiguada el empuje de la leva hasta el pistón y este hasta la válvula, por medio de la varilla o balancín, manteniéndose una holgura justa entre elementos de propulsión.
 
-        figure
+        figure.d-none.d-lg-block
           img(src="@/assets/curso/tema2/2.png", alt="alt")
 
       .col-lg-5
@@ -94,8 +94,7 @@
           p(data-aos="fade-up")
             | En la figura 6, podemos observar un sistema de propulsión de válvulas, en el cual el eje de levas está instalado sobre las válvulas y es una palanca basculante la encargada de empujar a las válvulas. Sobre el extremo en el cual debería estar el apoyo de la palanca, que en los anteriores motores era un apoyo regulable para calibrar las holguras de válvulas, ha sido instalado un propulsor hidráulico, que reemplaza a este apoyo regulable.
 
-
-        figure
+        figure.d-none.d-lg-block
           img(src="@/assets/curso/tema2/3.png", alt="alt")
 
       .col-lg-5
@@ -103,7 +102,7 @@
           h5 Figura 6.
           span Sistema de propulsión de válvulas 
 
-        .bg-color-1.p-4.mb-1
+        .bg-color-1.px-4.pt-4.pt-lg-5.mb-1
           figure
             img(src='@/assets/curso/tema2/f6.png', alt='Imagen que presenta un sistema de propulsión de válvulas.', style="max-width: 432px;", data-aos="zoom-in").mx-auto
 
@@ -174,7 +173,7 @@
 
         p(data-aos="fade-up").mb-4 El propulsor externo recibe de igual manera la presión de aceite de la bomba del motor para lubricarlo, y esta misma presión ingresa por un orificio de su pared lateral. La presión ingresa a su vez hasta el pistón interno del propulsor, cargándolo de presión, obligándolo a apoyarse sobre el vástago de la válvula, manteniendo de igual manera la holgura máxima que permite el colchón hidráulico.
 
-        figure
+        figure.d-none.d-lg-block
           img(src="@/assets/curso/tema2/4.png", alt="alt")
 
 

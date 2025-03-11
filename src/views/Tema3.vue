@@ -24,7 +24,7 @@
 
         p(data-aos="fade-up").mb-4 Al dar un mayor ángulo al perfil de las levas, se incrementará el llenado del cilindro y con ello la potencia del motor, pero el motor perderá estabilidad en bajas revoluciones, ya que una apertura muy anticipada de la válvula hará que la mezcla intente regresar al colector, porque en este momento el pistón está subiendo en la etapa de escape.
 
-        figure
+        figure.d-none.d-lg-block
           img(src="@/assets/curso/tema3/1.png", alt="alt")
 
       .col-lg-5
@@ -48,7 +48,7 @@
 
         p(data-aos="fade-up").mb-4 Para lograr girar en sentido de avance al eje de levas, un pistón es empujado hidráulicamente por la presión de aceite que ingresa a este ‘variador de fase’. Este pistón empuja a un piñón helicoidal, que, a su vez, se desliza dentro de un sector helicoidal externo, logrando con ello, y debido a la inclinación de sus dientes, a obligar a girar al eje de levas en un ángulo mayor en el sentido de avance, aunque la cadena se mantenga sincronizada con el piñón de mando de la distribución.
 
-        figure
+        figure.d-none.d-lg-block
           img(src="@/assets/curso/tema3/2.png", alt="alt")
 
       .col-lg-5
@@ -107,7 +107,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5
         figure
-          img(src='@/assets/curso/tema3/3.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
+          img(src='@/assets/curso/tema3/3.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto.mb-4.mb-lg-0
 
       .col-lg-7
         p(data-aos="fade-up").mb-4 Este sistema de Vanos, instalado inicialmente en el eje de levas de admisión, logra posicionar angularmente a las levas en cada etapa de aceleración, para que el llenado del cilindro sea el más efectivo y acorde a cada condición del motor y en cada régimen de revoluciones.
@@ -144,7 +144,7 @@
             img(src='@/assets/curso/tema3/f12.png', alt='Imagen que presenta un sistema de control de altura de la válvula.', style="max-width: 358px;", data-aos="zoom-in").mx-auto
 
       .col-lg-5
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/4.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto 
 
 
@@ -183,7 +183,7 @@
             img(src='@/assets/curso/tema3/f13.png', alt='Imagen que presenta un sistema combinado de Vanos e Hypervitec.', style="max-width: 358px;", data-aos="zoom-in").mx-auto
 
       .col-lg-5
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/5.png', alt='', style="max-width: 457px;", data-aos="zoom-in").mx-auto
 
 
@@ -238,7 +238,7 @@
           | El primer sistema utiliza una leva con dos perfiles de diferentes alturas y atacan al balancín que le permite utilizar el perfil bajo cuando no ingresa presión hidráulica a un pistón interior y permite utilizar el perfil alto de la otra leva cuando se deja entrar presión hidráulica.
 
 
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/7.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
 
 
@@ -274,7 +274,7 @@
             img(src='@/assets/curso/tema3/f15.png', alt='Imagen que presenta un sistema que trabaja con un solo perfil de leva.', style="max-width: 320px;", data-aos="zoom-in").mx-auto
 
       .col-lg-7
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/8.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
 
 
@@ -296,7 +296,7 @@
           | El eje de levas dispone de levas cónicas, que permiten ir variando la altura que se empuja a las válvulas, de acuerdo al sector cónico que roza la leva con el propulsor.
 
 
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/9.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
 
 
@@ -334,7 +334,7 @@
           p(data-aos="fade-up").mb-0
             | Cuando gira el árbol de levas, la palanca intermedia ejecuta un movimiento pendular. Sólo cuando la parte en ángulo actúa sobre el rodillo de la palanca de arrastre presionándola hacia abajo, se abre la válvula.
 
-        p(data-aos="fade-up").mb-0
+        p(data-aos="fade-up").mb-4.mb-lg-0
           | El árbol de excéntrica accionado por un motor eléctrico, el mismo que cambia el punto de apoyo de la palanca y en consecuencia, cambia también de modo continuo la carrera de la válvula de admisión, teóricamente desde las posiciones completamente cerrada hasta completamente abierta.
 
 
@@ -367,7 +367,7 @@
     .row.justify-content-center.align-items-start.mb-4
 
       .col-lg-5
-        figure
+        figure.mb-4.mb-lg-0
           img(src='@/assets/curso/tema3/10.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
 
       .col-lg-7
