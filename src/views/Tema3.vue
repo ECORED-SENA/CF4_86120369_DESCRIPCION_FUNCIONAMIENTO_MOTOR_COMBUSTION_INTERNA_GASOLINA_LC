@@ -84,7 +84,7 @@
 
         .bg-color-3.px-4.py-3.mb-4
           p(data-aos="fade-up").mb-0
-            | Cuando una válvula solenoide es controlada por el Computador del motor (ECU), permite el ingreso de presión de aceite hasta las cámaras formadas entre el rotor y el cuerpo, cuerpo que es al mismo tiempo el piñón de mando engranado con la cadena o banda de distribución.
+            | Cuando una válvula solenoide es controlada por el computador del motor (ECU), permite el ingreso de presión de aceite hasta las cámaras formadas entre el rotor y el cuerpo, cuerpo que es al mismo tiempo el piñón de mando engranado con la cadena o banda de distribución.
 
         p(data-aos="fade-up").mb-4
           | La presión obligará al rotor a girar hacia el lado necesario.
@@ -122,7 +122,7 @@
 
             .col-lg
               p(data-aos="fade-up").mb-0
-                | Al instalar el sistema de Vanos en los ejes de escape, se está aprovechando no solamente el mejor llenado del cilindro que permite instalarse para obtener una óptima combustión y potencia del motor, sino que se puede desalojar los gases quemados de mejor manera. Lo que reduce incluso, con ello, las emisiones a la atmósfera; perfeccionando aún más la eficiencia del motor. 
+                | Al instalar el sistema de Vanos en los ejes de escape, se está aprovechando no solamente el mejor llenado del cilindro que permite instalarse para obtener una óptima combustión y potencia del motor, sino que se pueden desalojar los gases quemados de mejor manera. Lo que reduce incluso, con ello, las emisiones a la atmósfera; perfeccionando aún más la eficiencia del motor. 
 
     Separador
 
@@ -195,7 +195,7 @@
               img(src="@/assets/curso/tema2/icon-2.svg", alt="", style="max-width: 90px;", data-aos="zoom-in").mx-auto.mb-4.mb-lg-0
           .col-lg
             p(data-aos="fade-up").mb-2.text-white
-              | Primer sistema de Vanos en el eje de levas, cuando cada leva impulsa a una válvula y el variador se encarga de avanzar el ángulo de tenía la sincronización básica. 
+              | Primer sistema de Vanos en el eje de levas, cuando cada leva impulsa a una válvula y el variador se encarga de avanzar el ángulo que tenía la sincronización básica. 
     
     Separador
 
@@ -205,7 +205,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7
         p(data-aos="fade-up").mb-3
-          | La Fábrica de vehículos japonesa Honda, basada en su gran experiencia y pruebas en motores de motocicletas y en sus novedosas innovaciones tecnológicas en motores de vehículos, diseñó desde los años 80, otro sistema de control del recorrido de las válvulas, también basándose en la ayuda y control hidráulicos.
+          | La fábrica de vehículos japonesa Honda, basada en su gran experiencia y pruebas en motores de motocicletas y en sus novedosas innovaciones tecnológicas en motores de vehículos, diseñó desde los años 80, otro sistema de control del recorrido de las válvulas, también basándose en la ayuda y control hidráulicos.
 
         p(data-aos="fade-up").mb-3
           | Este sistema, a diferencia del sistema anterior, dispone de tres levas y tres balancines en las primeras versiones y de dos levas y dos balancines en las más modernas, llamadas i-Vtec.
@@ -328,7 +328,7 @@
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-7
         p(data-aos="fade-up").mb-4
-          | Valvetronic de BMW es un sistema de regulación continua de la carrera de las válvulas de admisión. En este, el árbol de levas no actúa directamente sobre el balancín, sino que lo hace sobre una palanca intermedia, que está dotada en el centro de un rodillo y en contacto con la leva (árbol de levas). El extremo inferior de la palanca está apoyado sobre el rodillo de la palanca de arrastre, mientras que en la parte superior está apoyada de un eje excéntrico dotado a su vez, de un segundo rodillo.
+          | Valvetronic de BMW es un sistema de regulación continua de la carrera de las válvulas de admisión. En este, el árbol de levas no actúa directamente sobre el balancín, sino que lo hace sobre una palanca intermedia, que está dotada en el centro de un rodillo y en contacto con la leva (árbol de levas). El extremo inferior de la palanca está apoyado sobre el rodillo de la palanca de arrastre, mientras que en la parte superior está apoyada en un eje excéntrico dotado a su vez, de un segundo rodillo.
 
         .bg-color-3.px-4.py-4.mb-4
           p(data-aos="fade-up").mb-0
@@ -372,7 +372,7 @@
 
       .col-lg-7
         p(data-aos="fade-up").mb-4
-          | Valeo presentó en el Salón de Frankfurt 2005, su última tecnología en comando electrónico de las válvulas del motor de combustión, que no es más que un sistema que adopta Smart Valve Actual (SVA), en lugar del funcionamiento de las válvulas del motor empujadas por el perfil de levas, àrbol de levas y propulsores hidráulicos.
+          | Valeo presentó en el Salón de Frankfurt 2005, su última tecnología en comando electrónico de las válvulas del motor de combustión, que no es más que un sistema que adopta Smart Valve Actual (SVA), en lugar del funcionamiento de las válvulas del motor empujadas por el perfil de levas, árbol de levas y propulsores hidráulicos.
 
         .bg-color-6.px-4.py-4.mb-4
           p(data-aos="fade-up").mb-0

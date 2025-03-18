@@ -35,7 +35,7 @@
                 | Para poder calibrar la holgura que se necesita, este ‘vaso’ propulsor que aloja a una rodela plana de acero que tiene un cierto espesor y que al mismo tiempo sirve de superficie de fricción de la leva.
 
 
-        p(data-aos="fade-up").mb-4 Ya que la distancia entre el eje de levas y la válvula resulta difícil regular, esta rodela puede ser reemplazada con diferentes espesores; de tal manera que una rodela de menor espesor dará una mayor distancia de calibración y una de mayor espesor reducirá la holgura.
+        p(data-aos="fade-up").mb-4 Ya que la distancia entre el eje de levas y la válvula resulta difícil de regular, esta rodela puede ser reemplazada con diferentes espesores; de tal manera que una rodela de menor espesor dará una mayor distancia de calibración y una de mayor espesor reducirá la holgura.
 
         .bg-color-14.px-4.py-3.mb-4.mb-lg-0
           p(data-aos="fade-up").mb-0 En estos sistemas es muy importante tomar en cuenta que una rectificación del asiento de la válvula o de la misma superficie cónica de la cabeza de la válvula reducirá esta holgura, pudiendo llegar a los límites en los cuales los espesores mínimos de las rodelas serán insuficientes para dejar la holgura necesaria, lo que implica cambiar al asiento y calibrar esta altura. 
@@ -97,7 +97,7 @@
       .col-lg-8
         .bg-color-3.px-4.py-3.mb-4
           p(data-aos="fade-up").mb-0
-            | Este cambio se ha debido especialmente, ya que el peso de la rodela de acero, más el peso del mismo propulsor aumentan la inercia que se produce sobre la tensión del muelle de válvula, el cual debe empujar además de la válvula al propulsor en su carrera de regreso. Este fenómeno que se produce aumentará significativamente con el incremento de las revoluciones del motor.
+            | Este cambio se ha debido especialmente, a que el peso de la rodela de acero, más el peso del mismo propulsor aumentan la inercia que se produce sobre la tensión del muelle de válvula, el cual debe empujar, además de la válvula, al propulsor en su carrera de regreso. Este fenómeno que se produce aumentará significativamente con el incremento de las revoluciones del motor.
 
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 3.

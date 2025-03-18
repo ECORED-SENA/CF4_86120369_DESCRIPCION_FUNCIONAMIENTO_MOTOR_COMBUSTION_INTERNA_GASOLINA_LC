@@ -61,7 +61,7 @@
 
         .bg-color-8.px-4.py-3.mb-4
           p(data-aos="fade-up")
-            | Entre el cuerpo y el pistón se ha instalado un muelle, encargado de empujar al pistón para que se mantenga en contacto con la varilla o balancín y permita adicionalmente el ingreso del aceite en la cámara; aceite que viene de los duetos de lubricación del bloque de cilindros o de la culata, lugar en el cual se han instalado los propulsores. Este aceite ingresa por un orificio del cuerpo hasta la cámara del propulsor, a través de una válvula check, la misma que permite ingresar al aceite, pero no lo permite salir.
+            | Entre el cuerpo y el pistón se ha instalado un muelle, encargado de empujar al pistón para que se mantenga en contacto con la varilla o balancín y permita adicionalmente el ingreso del aceite en la cámara; aceite que viene de los duetos de lubricación del bloque de cilindros o de la culata, lugar en el cual se han instalado los propulsores. Este aceite ingresa por un orificio del cuerpo hasta la cámara del propulsor, a través de una válvula #[em check], la misma que permite ingresar al aceite, pero no lo permite salir.
 
 
         p(data-aos="fade-up").mb-4 El aceite comprimido transmite de forma amortiguada el empuje de la leva hasta el pistón y este hasta la válvula, por medio de la varilla o balancín, manteniéndose una holgura justa entre elementos de propulsión.
@@ -117,7 +117,7 @@
             p(data-aos="fade-up").mb-2.text-white
               | La presión de aceite que llega hasta los conductos de lubricación se encarga de lubricar al propulsor y de enviar esta presión a su pistón interno para cargarlo, de tal manera que la palanca basculante no tendrá una holgura mayor que la formada por el colchón hidráulico formado.
             p(data-aos="fade-up").mb-0.text-white
-              | #[strong La presión interna se mantiene, aunque el motor esté apagado gracias al cierre de las válvulas check. ]
+              | #[strong La presión interna se mantiene, aunque el motor esté apagado gracias al cierre de las válvulas #[em check]. ]
 
 
     .titulo-segundo.color-primario
@@ -130,10 +130,10 @@
 
         .bg-color-8.px-4.py-3.mb-4
           p(data-aos="fade-up")
-            | La presión hidráulica que se necesita para cargar la cámara interna de cada propulsor se la consigue con la misma presión de aceite que llega hasta el eje de los balancines. Este eje hueco se encarga de repartir la presión del aceite para lubricar los puntos de pivoteo del balancín y por medio de un orifico el aceite ingresa hasta el propulsor. Cuando el propulsor se carga de esta presión, la posible holgura que pudo haber tenido se reduce a una holgura máxima que la mantiene el colchón hidráulico dentro del propulsor.
+            | La presión hidráulica que se necesita para cargar la cámara interna de cada propulsor se la consigue con la misma presión de aceite que llega hasta el eje de los balancines. Este eje hueco se encarga de repartir la presión del aceite para lubricar los puntos de pivoteo del balancín y, por medio de un orificio el aceite ingresa hasta el propulsor. Cuando el propulsor se carga de esta presión, la posible holgura que pudo haber tenido se reduce a una holgura máxima que la mantiene el colchón hidráulico dentro del propulsor.
 
 
-        p(data-aos="fade-up").mb-4 Tales propulsores disponen de una válvula check, la cual permite el ingreso del aceite y no su retorno, por lo mismo, no permitirán la descarga del aceite, manteniéndose el propulsor del balancín cargado permanentemente, inclusive después de que la bomba de aceite del motor ya no provea de presión cuando este se apaga.
+        p(data-aos="fade-up").mb-4 Tales propulsores disponen de una válvula #[em check], la cual permite el ingreso del aceite y no su retorno, por lo mismo, no permitirán la descarga del aceite, manteniéndose el propulsor del balancín cargado permanentemente, inclusive después de que la bomba de aceite del motor ya no provea de presión cuando este se apaga.
 
 
       .col-lg-5
@@ -171,7 +171,7 @@
             | El sistema de propulsores que impulsan directamente a la válvula cuando son empujados por la leva también ha sido rediseñado, ya que dentro de este propulsor también se ha instalado un propulsor hidráulico.
 
 
-        p(data-aos="fade-up").mb-4 El propulsor externo recibe de igual manera la presión de aceite de la bomba del motor para lubricarlo, y esta misma presión ingresa por un orificio de su pared lateral. La presión ingresa a su vez hasta el pistón interno del propulsor, cargándolo de presión, obligándolo a apoyarse sobre el vástago de la válvula, manteniendo de igual manera la holgura máxima que permite el colchón hidráulico.
+        p(data-aos="fade-up").mb-4 El propulsor externo recibe de igual manera la presión de aceite de la bomba del motor para lubricarlo, y esta misma presión ingresa por un orificio de su pared lateral. La presión ingresa, a su vez, hasta el pistón interno del propulsor, cargándolo de presión, obligándolo a apoyarse sobre el vástago de la válvula, manteniendo de igual manera la holgura máxima que permite el colchón hidráulico.
 
         figure.d-none.d-lg-block
           img(src="@/assets/curso/tema2/4.png", alt="alt")

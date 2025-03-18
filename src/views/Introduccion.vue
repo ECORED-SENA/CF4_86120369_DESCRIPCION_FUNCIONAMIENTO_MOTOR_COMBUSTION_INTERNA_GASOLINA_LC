@@ -20,7 +20,7 @@
                     img(src='@/assets/curso/intro/1.png', alt='')
                 .col-lg
                   .p-4
-                    p.mb-3(data-aos="fade-up") En todo elemento mecánico que tiene trabajo constante, y más en el motor del vehículo, es indispensable recalibrar las partes que pueden haber cambiado el tiempo de funcionamiento, han perdido rendimiento por desgaste o uso; o bien, cuando el motor ha tenido un uso determinado y deterioro, necesita otros parámetros de funcionamiento para mantenerlo en forma. En la actualidad, los desarrollos en el campo automotriz han llevado a que la los elementos sean monitoreados permanente mente y sus ajuste se realice a través de personal calificado.
+                    p.mb-3(data-aos="fade-up") En todo elemento mecánico que tiene trabajo constante, y más en el motor del vehículo, es indispensable recalibrar las partes que pueden haber cambiado el tiempo de funcionamiento, han perdido rendimiento por desgaste o uso; o bien, cuando el motor ha tenido un uso determinado y deterioro, necesita otros parámetros de funcionamiento para mantenerlo en forma. En la actualidad, los desarrollos en el campo automotriz han llevado a que los elementos sean monitoreados permanentemente y sus ajustes se realicen a través de personal calificado.
 
                     p.mb-0(data-aos="fade-up") #[strong ¡Muchos éxitos en esta experiencia de aprendizaje!]
 
