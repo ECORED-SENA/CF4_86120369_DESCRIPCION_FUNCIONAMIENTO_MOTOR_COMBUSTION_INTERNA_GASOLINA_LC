@@ -2,12 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.overflow-hidden
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Sistema de variación del avance en eje de levas de admisión
 
-      
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7
 
@@ -20,7 +19,6 @@
             .col-lg
               p(data-aos="fade-up").mb-0
                 | La sincronización entre el eje cigüeñal y el eje de levas de un motor, tiene los puntos de referencia definidos por el fabricante, y que corresponden exactamente con el inicio de la apertura y del cierre de las válvulas con respecto a la posición que tiene cada pistón del motor.
-
 
         p(data-aos="fade-up").mb-4 Al dar un mayor ángulo al perfil de las levas, se incrementará el llenado del cilindro y con ello la potencia del motor, pero el motor perderá estabilidad en bajas revoluciones, ya que una apertura muy anticipada de la válvula hará que la mezcla intente regresar al colector, porque en este momento el pistón está subiendo en la etapa de escape.
 
@@ -71,10 +69,10 @@
               img(src="@/assets/curso/tema2/icon-2.svg", alt="", style="max-width: 90px;", data-aos="zoom-in").mx-auto.mb-4.mb-lg-0
           .col-lg
             p(data-aos="fade-up").mb-2.text-white
-              | Engine Control Unit (Unidad de Control Electrónico) que administra varios aspectos de la operación de combustión interna del motor. Las unidades de control de motor más simples sólo controlan la cantidad de combustible que es inyectado en cada cilindro en cada ciclo de motor. Las más avanzadas controlan el punto de ignición, el tiempo de apertura/cierre de las válvulas, el nivel de impulso mantenido por el turbocompresor, y control de otros periféricos. 
+              | #[i Engine Control Unit] (Unidad de Control Electrónico) que administra varios aspectos de la operación de combustión interna del motor. Las unidades de control de motor más simples sólo controlan la cantidad de combustible que es inyectado en cada cilindro en cada ciclo de motor. Las más avanzadas controlan el punto de ignición, el tiempo de apertura/cierre de las válvulas, el nivel de impulso mantenido por el turbocompresor, y control de otros periféricos. 
     
     Separador
-
+    #t_3_1
     .titulo-segundo.color-primario
       h2 3.1 Sistemas de vanos en eje de levas de admisión
 
@@ -100,7 +98,7 @@
             img(src='@/assets/curso/tema3/f11.png', alt='Imagen que presenta un sistema de Vanos.', style="max-width: 457px;", data-aos="zoom-in").mx-auto
 
     Separador
-
+    #t_3_2
     .titulo-segundo.color-primario
       h2 3.2 Sistema de vanos en ejes de levas de admisión y escape
 
@@ -125,7 +123,7 @@
                 | Al instalar el sistema de Vanos en los ejes de escape, se está aprovechando no solamente el mejor llenado del cilindro que permite instalarse para obtener una óptima combustión y potencia del motor, sino que se pueden desalojar los gases quemados de mejor manera. Lo que reduce incluso, con ello, las emisiones a la atmósfera; perfeccionando aún más la eficiencia del motor. 
 
     Separador
-
+    #t_3_3
     .titulo-segundo.color-primario
       h2 3.3 Sistema de control de altura de la válvula
 
@@ -159,7 +157,7 @@
               | Al ingresar la presión cuando la válvula solenoide abre este paso, el pistón es empujado hidráulicamente hasta su tope interno. El propulsor empieza a atacar, pero parte de este empuje se ‘desperdicia’, ya que el propulsor recorre mayor espacio para empujar a la válvula, reduciéndose su recorrido, que es menor que el recorrido anterior.
     
     Separador
-
+    #t_3_4
     .titulo-segundo.color-primario
       h2 3.4 Sistema combinado de Vanos e Hypervitec
 
@@ -198,7 +196,7 @@
               | Primer sistema de Vanos en el eje de levas, cuando cada leva impulsa a una válvula y el variador se encarga de avanzar el ángulo que tenía la sincronización básica. 
     
     Separador
-
+    #t_3_5
     .titulo-segundo.color-primario
       h2 3.5 Sistema Vtec de Honda
 
@@ -222,7 +220,7 @@
           img(src='@/assets/curso/tema3/6.png', alt='', style="max-width: 100%;", data-aos="zoom-in").mx-auto
 
     Separador
-
+    #t_3_6
     .titulo-segundo.color-primario
       h2 3.6 Sistema de balancín doble y cojín mando hidráulico
 
@@ -245,7 +243,7 @@
       .col-lg-5
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 14.
-          span Figura 14. Sistema que utiliza una leva con dos perfiles de diferentes alturas
+          span Sistema que utiliza una leva con dos perfiles de diferentes alturas
 
         .bg-color-1.py-4
           figure
@@ -279,7 +277,7 @@
 
 
     Separador
-
+    #t_3_7
     .titulo-segundo.color-primario
       h2 3.7 Sistema eje de levas deslizante cónico
 
@@ -320,7 +318,7 @@
               | El otro sistema trabaja con un solo perfil de leva, pero el balancín tiene un pistón hidráulico de apoyo de la leva y otro pistón hidráulico que actúa como una cuña, para bloquear al pistón y permitir que la leva empuje un mayor recorrido a la válvula.
 
     Separador
-
+    #t_3_8
     .titulo-segundo.color-primario
       h2 3.8 Sistema Valvetronic BMW
 
@@ -344,9 +342,9 @@
           span Sistema Valvetronic de BMW
 
 
-        .bg-color-1.py-4
+        .bg-color-1.p-4
           figure
-            img(src='@/assets/curso/tema3/f17.png', alt='Imagen que presenta el sistema Valvetronic de BMW.', style="max-width: 389px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema3/f17.png', alt='Imagen que presenta el sistema Valvetronic de BMW.', style="max-width: 360px;", data-aos="zoom-in").mx-auto
 
     .bg-full-width.bg-color-5.my-5
       .p-4
@@ -359,10 +357,9 @@
               | La alzada de las válvulas puede variar desde los 0,01 a los 9,7 milímetros, en función del aire necesario para la combustión. En este caso, es el computador del motor (ECU) quien controla el movimiento del motor eléctrico y que pone a estos actuadores intermedios, en la posición requerida. 
 
     Separador
-
+    #t_3_9
     .titulo-segundo.color-primario
       h2 3.9 Sistema de comando electrónico de válvulas
-
 
     .row.justify-content-center.align-items-start.mb-4
 

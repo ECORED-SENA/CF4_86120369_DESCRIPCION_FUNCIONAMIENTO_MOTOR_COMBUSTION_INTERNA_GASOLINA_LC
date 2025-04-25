@@ -23,6 +23,8 @@ export default {
       introduccion:
         '<b>Objetivo:</b> Fortalecer el conocimiento sobre las innovaciones tecnológicas en la gestión de válvulas y su influencia en la optimización del desempeño automotriz.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,

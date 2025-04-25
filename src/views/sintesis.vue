@@ -6,7 +6,7 @@
       .row.justify-content-center
         .col-lg-12.mb-5
           figure.bg-color-sintesis.p-5.tarjeta
-            img(src="@/assets/curso/sintesis.svg", alt="Diagrama de flujo sobre el mantenimiento del diferencial, dividido en dos grandes procesos: comprobaciones previas y diagnóstico, y reparación del diferencial. Las comprobaciones incluyen revisar el nivel y estado del aceite, diagnosticar problemas y realizar una reparación confiable. La reparación del diferencial abarca pasos de mantenimiento y comprobaciones de ensamble, que permiten regular los rodamientos en la corona, el piñón impulsor en la carcasa, el juego entre piñón impulsor y corona, y verificar el asentamiento entre cono y corona, así como la comprobación de satélites y planetarios. ")
+            img(src="@/assets/curso/sintesis.svg", alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas y destaca aspectos clave estudiados. Tema central: calibración de válvulas, propulsores, nuevos sistemas. Temas integradores: calibración de válvulas, propulsores hidráulicos y sistema de variación del avance en eje de levas de admisión.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
