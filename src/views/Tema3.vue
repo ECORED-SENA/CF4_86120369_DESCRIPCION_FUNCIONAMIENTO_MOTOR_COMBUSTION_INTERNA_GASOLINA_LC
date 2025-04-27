@@ -33,6 +33,7 @@
         .bg-color-1
           figure
             img(src='@/assets/curso/tema3/f9.png', alt='Imagen que presenta el ángulo de avance al perfil de las levas.', style="max-width: 504px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Ángulo de avance al perfil de las levas. (s.f.). [Imagen].
 
     p(data-aos="fade-up").mb-4
       | Para lograr ambos efectos, es decir aumentar el llenado y la potencia del motor, así como mantenerlo muy estable en bajas revoluciones, se han diseñado sistemas de avance del eje de levas (principalmente para admisión), para que en bajas revoluciones esté el eje un tanto atrasado con la sincronización ideal y cuando el motor va incrementando sus revoluciones, se avance el eje de levas para lograr aumentar el llenado de los cilindros con la apertura anticipada de las válvulas.
@@ -54,9 +55,10 @@
           h5 Figura 10.
           span Avance al eje de levas
 
-        .bg-color-1.py-4.py-lg-5.mb-1
+        .bg-color-1.py-4.py-lg-5
           figure
             img(src='@/assets/curso/tema3/f10.png', alt='Imagen que presenta el avance al eje de levas.', style="max-width: 504px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Avance al eje de levas. (s.f.). [Imagen].
 
     p(data-aos="fade-up").mb-4
       | Una válvula solenoide es comandada por el computador del sistema de control del motor (ECU), la misma que al abrirse después de unas 1.800 RPM, permite el ingreso de la presión de aceite, presión que seguirá incrementándose con el mayor número de revoluciones del motor y con ello el avance.
@@ -89,13 +91,14 @@
 
 
       .col-lg-5
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido
           h5 Figura 11.
           span Sistema de Vanos
 
         .bg-color-1.py-4.py-lg-5.mb-1
           figure
             img(src='@/assets/curso/tema3/f11.png', alt='Imagen que presenta un sistema de Vanos.', style="max-width: 457px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema de Vanos. (s.f.). [Imagen].
 
     Separador
     #t_3_2
@@ -140,6 +143,7 @@
         .bg-color-1.py-4
           figure
             img(src='@/assets/curso/tema3/f12.png', alt='Imagen que presenta un sistema de control de altura de la válvula.', style="max-width: 358px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema de control de altura de la válvula. (s.f.). [Imagen].
 
       .col-lg-5
         figure.d-none.d-lg-block
@@ -179,6 +183,7 @@
         .bg-color-1.py-4
           figure
             img(src='@/assets/curso/tema3/f13.png', alt='Imagen que presenta un sistema combinado de Vanos e Hypervitec.', style="max-width: 358px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema combinado de Vanos e Hypervitec. (s.f.). [Imagen].
 
       .col-lg-5
         figure.d-none.d-lg-block
@@ -248,6 +253,7 @@
         .bg-color-1.py-4
           figure
             img(src='@/assets/curso/tema3/f14.png', alt='Imagen que presenta un sistema que utiliza una leva con dos perfiles de diferentes alturas.', style="max-width: 270px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema que utiliza una leva con dos perfiles de diferentes alturas. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5.my-5
       .p-4
@@ -270,6 +276,7 @@
         .bg-color-1.py-4
           figure
             img(src='@/assets/curso/tema3/f15.png', alt='Imagen que presenta un sistema que trabaja con un solo perfil de leva.', style="max-width: 320px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema que trabaja con un solo perfil de leva. (s.f.). [Imagen].
 
       .col-lg-7
         figure.d-none.d-lg-block
@@ -305,7 +312,8 @@
 
         .bg-color-1.py-4
           figure
-            img(src='@/assets/curso/tema3/f16.png', alt='Imagen que presenta un sistema que utiliza una leva con dos perfiles de diferentes alturas.', style="max-width: 270px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema3/f16.png', alt='Imagen que presenta un sistema que utiliza una leva con dos perfiles de diferentes alturas.', style="max-width: 400px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Levas cónicas. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5.my-5
       .p-4
@@ -344,7 +352,8 @@
 
         .bg-color-1.p-4
           figure
-            img(src='@/assets/curso/tema3/f17.png', alt='Imagen que presenta el sistema Valvetronic de BMW.', style="max-width: 360px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema3/f17.png', alt='Imagen que presenta el sistema Valvetronic de BMW.', style="max-width: 400px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema Valvetronic de BMW. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5.my-5
       .p-4

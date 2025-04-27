@@ -45,9 +45,10 @@
           h5 Figura 1.
           span Conjunto engranaje de mando final
 
-        .bg-color-1.pt-4.pe-4.mb-1
+        .bg-color-1.pt-4.pe-4
           figure
             img(src='@/assets/curso/tema1/f1.png', alt='Imagen que presenta la calibración de válvulas con pastilla calibrada.', style="max-width: 400px;").m-auto
+        figcaption.mt-2 #[b Nota.] Conjunto engranaje de mando final. (s.f.). [Imagen].
 
     Separador
     #t_1_2
@@ -62,9 +63,10 @@
           h5 Figura 2.
           span Conjunto engranaje de mando final
 
-        .bg-color-1.p-4.mb-4
+        .bg-color-1.p-4
           figure
-            img(src='@/assets/curso/tema1/f2.png', alt='Imagen que presenta la calibración de válvulas con tornillo cónico en propulsor.', style="max-width: 400px;").mx-auto
+            img(src='@/assets/curso/tema1/f2.png', alt='Imagen que presenta la calibración de válvulas con tornillo cónico en propulsor.', style="max-width: 520px;").mx-auto
+        figcaption.mt-2.mb-4 #[b Nota.] Conjunto engranaje de mando final. (s.f.). [Imagen].
 
         .bg-color-4
           .p-4
@@ -102,9 +104,10 @@
           h5 Figura 3.
           span Calibración válvulas con pastillas sobre vástago
 
-        .bg-color-1.px-4.mb-4
+        .bg-color-1.px-4
           figure
-            img(src='@/assets/curso/tema1/f3.png', alt='Imagen que presenta la calibración válvulas con pastillas sobre vástago.', style="max-width: 577px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema1/f3.png', alt='Imagen que presenta la calibración válvulas con pastillas sobre vástago.', style="max-width: 650px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Calibración válvulas con pastillas sobre vástago. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5
       .p-4

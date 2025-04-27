@@ -31,9 +31,10 @@
           h5 Figura 4.
           span Propulsores hidráulicos
 
-        .bg-color-1.p-4.mb-1
+        .bg-color-1.p-4
           figure
-            img(src='@/assets/curso/tema2/f4.png', alt='Imagen que presenta un propulsor hidráulico.', style="max-width: 362px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema2/f4.png', alt='Imagen que presenta un propulsor hidráulico.', style="max-width: 400px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Propulsores hidráulicos. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5
       .p-4
@@ -69,9 +70,10 @@
           h5 Figura 5.
           span Despiece del propulsor tradicional 
 
-        .bg-color-1.p-4.mb-1
+        .bg-color-1.p-4
           figure
-            img(src='@/assets/curso/tema2/f5.png', alt='Imagen que presenta el despiece del propulsor tradicional.', style="max-width: 380px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema2/f5.png', alt='Imagen que presenta el despiece del propulsor tradicional.', style="max-width: 450px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Despiece del propulsor tradicional. (s.f.). [Imagen].
 
     Separador
     #t_2_2
@@ -94,9 +96,10 @@
           h5 Figura 6.
           span Sistema de propulsión de válvulas 
 
-        .bg-color-1.px-4.pt-4.pt-lg-5.mb-1
+        .bg-color-1.px-4.pt-4.pt-lg-5
           figure
-            img(src='@/assets/curso/tema2/f6.png', alt='Imagen que presenta un sistema de propulsión de válvulas.', style="max-width: 380px;", data-aos="zoom-in").mx-auto
+            img(src='@/assets/curso/tema2/f6.png', alt='Imagen que presenta un sistema de propulsión de válvulas.', style="max-width: 400px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Sistema de propulsión de válvulas. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5.mb-5
       .p-4
@@ -130,9 +133,10 @@
           h5 Figura 7.
           span Propulsor hidráulico dentro de balancín
 
-        .bg-color-1.p-4.mb-1
+        .bg-color-1.p-4
           figure
             img(src='@/assets/curso/tema2/f7.png', alt='Imagen que presenta  un propulsor hidráulico instalado dentro de un balancín.', style="max-width: 465px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Propulsor hidráulico dentro de balancín. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5
       .p-4
@@ -166,9 +170,10 @@
           h5 Figura 8.
           span Propulsor hidráulico dentro del vaso propulsor
 
-        .bg-color-1.p-4.py-lg-5.mb-1
+        .bg-color-1.p-4.py-lg-5
           figure
             img(src='@/assets/curso/tema2/f8.png', alt='Imagen que presenta  un propulsor hidráulico instalado dentro del vaso propulsor.', style="max-width: 465px;", data-aos="zoom-in").mx-auto
+        figcaption.mt-2 #[b Nota.] Propulsor hidráulico dentro del vaso propulsor. (s.f.). [Imagen].
 
     .bg-full-width.bg-color-5
       .p-4
